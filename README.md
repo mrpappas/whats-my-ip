@@ -11,5 +11,6 @@ Support
 -------
 
 Drop me a line: mrbenpappas@gmail.com
-  github: https://github.com/mrpappas
+
+github: https://github.com/mrpappas
 

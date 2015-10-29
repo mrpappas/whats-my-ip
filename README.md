@@ -1,13 +1,11 @@
-#whats-my-ip
-What's my ip Address?
-========
+What's my ip address?  
 
 Project
 -------
 
 Live example:  http://monger.us/ipaddress/
 
-Displays client's ip address in web browser via PHP script retrieving $_SERVER[] values.
+Retrieves client ip address and displays in browser.
 
 This is not a reliable or secure way to identify/track a user,  it can be easily stumped with a proxy or vpn.
 
@@ -15,7 +13,7 @@ This is not a reliable or secure way to identify/track a user,  it can be easily
 Support
 -------
 
-Drop me a line: mrbenpappas@gmail.com
+email me: mrbenpappas@gmail.com
 
 github: https://github.com/mrpappas
 

@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title><?php echo $ip?></title>
-	<!---bootstrap css--->
+	<!--bootstrap css-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
-	<!---fontawesome--->
+	<!--fontawesome-->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   </head>
   
@@ -31,15 +31,15 @@
 			<div class="panel panel-success">
 			  <div class="panel-heading"><strong>Your IP address is:</strong></div>
 			  <div class="panel-body">
-				<!---$ip goes here--->
+				<!--$ip goes here-->
 				<h1><?php echo $ip?></h1>
-				<!---address goes here--->
-				<h4 id="address"></h2>
-				<!--- Country of origin go here --->
+				<!--address goes here-->
+				<h4 id="address"></h4>
+				<!-- Country of origin go here -->
 				<h5 id="details"></h5>
-				<!--- Longitude and Lattitude go here --->
+				<!-- Longitude and Lattitude go here -->
 				<h5 id="geo"></h5>
-				<!--- isp info goes here --->
+				<!-- isp info goes here -->
 				<h5 id="isp"></h5>
 			  </div>
 			</div>

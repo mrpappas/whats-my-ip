@@ -13,23 +13,23 @@
   </head>
   
   <body>
+   <div class="container">
 	<nav class="navbar navbar-default">
 	  <div class="container-fluid">
 		<div class="navbar-header">
 		  <a class="navbar-brand" href="#">
-			<p>What's my ip address?</p>
+			<p>What's my IP address?</p>
 		  </a>
 		  <p class="navbar-text navbar-right"><a href="https://github.com/mrpappas" target="_blank">by Ben Pappas <i class="fa fa-github"></i></a></p>
 		</div>
-		
 	  </div>
 	</nav>
-	
+   </div>
 	<div class="container">
 	    <div class="row" align="left">
 		  <div class="col-md-6">
 			<div class="panel panel-success">
-			  <div class="panel-heading">Your ip address is:</div>
+			  <div class="panel-heading"><strong>Your IP address is:</strong></div>
 			  <div class="panel-body">
 				<!---$ip goes here--->
 				<h1><?php echo $ip?></h1>

@@ -1,0 +1,24 @@
+html, body { height: 100%; margin: 0; padding: 0; }
+#map { 
+	height: 50%;
+	width: 78%;
+	 margin: 0 auto 0 auto;
+	}
+h1 {
+	text-align: center;
+}
+strong {
+	color:  #428bca;
+}
+.navbar{
+	border-radius: 0;
+}
+.panel{
+	border-radius: 0;
+}
+.panel-heading {
+	text-align: center;
+	font-size: 18px;
+	line-height: 1;
+	text-shadow: 1px 1px 1px #999999;
+}

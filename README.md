@@ -14,7 +14,8 @@ This is not a reliable or secure way to identify/track a user,  it can be easily
 Resources
 -------
 
-ipinfo.io for geolocational data.
+ipinfo.io
+Google Maps
 
 Support
 -------

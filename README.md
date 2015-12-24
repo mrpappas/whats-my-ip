@@ -1,8 +1,6 @@
 What's my ip address?  
 -------
 
-Project
--------
 
 Live example:  http://monger.us/ipaddress/
 

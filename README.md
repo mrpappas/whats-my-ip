@@ -2,7 +2,7 @@ What's my ip address?
 -------
 
 
-Live example:  http://monger.us/ipaddress/
+Live example:  http://mongr.co/ipaddress/
 
 Retrieves client ip address and displays in browser.
 
